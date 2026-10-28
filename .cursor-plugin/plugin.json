@@ -1,0 +1,25 @@
+{
+  "name": "artifact-publisher",
+  "version": "0.1.0",
+  "description": "Publish self-contained HTML to a stable share link and read page feedback via Artifact Publisher MCP. OAuth connect; free plan available.",
+  "author": {
+    "name": "Angle Labs GmbH",
+    "email": "contact@artifactpublisher.com"
+  },
+  "homepage": "https://artifactpublisher.com/",
+  "repository": "https://github.com/ni3do/artifact-publisher-cursor-plugin",
+  "license": "MIT-0",
+  "keywords": [
+    "mcp",
+    "html",
+    "share-link",
+    "agents",
+    "artifacts",
+    "publishing",
+    "oauth",
+    "feedback",
+    "review",
+    "remote-mcp"
+  ],
+  "logo": "https://artifactpublisher.com/favicon.svg"
+}
