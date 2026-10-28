@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "artifact-publisher": {
+      "url": "https://app.artifactpublisher.com/mcp"
+    }
+  }
+}
